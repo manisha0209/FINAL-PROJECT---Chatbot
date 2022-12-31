@@ -8,6 +8,8 @@
                     ~ Handles sending text via button clicks
   Responses.js is basically programmed to  give responses to the text entered by the user accordingly.
   This is all about my Final Project (Chatbot) . Hope you will have a fun time intereacting with it :)
+  
+  
 TODO
   ~ Open the chatbox panel  
   ~ enter "hey"
