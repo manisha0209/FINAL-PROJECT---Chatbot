@@ -7,7 +7,11 @@
                     ~ Gets the text text from the input box and processes it
                     ~ Handles sending text via button clicks
   Responses.js is basically programmed to  give responses to the text entered by the user accordingly.
-  This is all about my Final Project (Chatbot) . This chatbot can also play rock , paper , scissors with you. You can talk with it whenever you feel lonely. There is also a calculator programmed with this chatbot and one can perform basic calculations like addition, subtraction, multiplication and division with it . If you send a heart emoji it will respond back with a heart emoji as well. This chatbot is a very basic one but took a lot of efforts to create. It is very fun to interact with. Various functions and commands are used. Chatbots are nowdays used in various websites for better user experience. User can ask faqs and get their problems solved using chatbot . I had very fun time creating this on. Hope you will have a fun time intereacting with it :)
+  This is all about my Final Project (Chatbot) . 
+  
+  This chatbot can also play rock , paper , scissors with you. You can talk with it whenever you feel lonely. There is also a calculator programmed with this chatbot and one can perform basic calculations like addition, subtraction, multiplication and division with it . If you send a heart emoji it will respond back with a heart emoji as well. This chatbot is a very basic one but took a lot of efforts to create. It is very fun to interact with. Various functions and commands are used. Chatbots are nowdays used in various websites for better user experience. User can ask faqs and get their problems solved using chatbot . I had very fun time creating this on. 
+ 
+  Hope you will have a fun time intereacting with it :)
   
   
 TODO
